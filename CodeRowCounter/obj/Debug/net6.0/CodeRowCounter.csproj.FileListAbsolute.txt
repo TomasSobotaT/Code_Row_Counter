@@ -1,0 +1,15 @@
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\bin\Debug\net6.0\CodeRowCounter.exe
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\bin\Debug\net6.0\CodeRowCounter.deps.json
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\bin\Debug\net6.0\CodeRowCounter.runtimeconfig.json
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\bin\Debug\net6.0\CodeRowCounter.dll
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\bin\Debug\net6.0\CodeRowCounter.pdb
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\obj\Debug\net6.0\CodeRowCounter.csproj.AssemblyReference.cache
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\obj\Debug\net6.0\CodeRowCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\obj\Debug\net6.0\CodeRowCounter.AssemblyInfoInputs.cache
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\obj\Debug\net6.0\CodeRowCounter.AssemblyInfo.cs
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\obj\Debug\net6.0\CodeRowCounter.csproj.CoreCompileInputs.cache
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\obj\Debug\net6.0\CodeRowCounter.dll
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\obj\Debug\net6.0\refint\CodeRowCounter.dll
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\obj\Debug\net6.0\CodeRowCounter.pdb
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\obj\Debug\net6.0\CodeRowCounter.genruntimeconfig.cache
+C:\GitHubZaloha\CodeRowCounter\CodeRowCounter\obj\Debug\net6.0\ref\CodeRowCounter.dll
